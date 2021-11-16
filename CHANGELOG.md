@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 [markdownlint](https://dlaa.me/markdownlint/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6.1] - 2021-11-09
+
+### Added to 1.6.1
+
+- Removed `G2ProductModule.py`
+
 ## [1.6.0] - 2020-07-16
 
 ### Added to 1.6.0
